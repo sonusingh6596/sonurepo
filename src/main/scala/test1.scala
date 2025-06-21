@@ -3,6 +3,6 @@ object test1 {
 
   def main(args:Array[String]):Unit= {
 
-    print("Hello monu")
+    print("Hello DIpu")
   }
 }
